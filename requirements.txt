@@ -1,0 +1,6 @@
+flask
+numpy
+tensorflow
+matplotlib
+wfdb
+scipy
